@@ -9,4 +9,4 @@ Content-Type: application/json
 
 ###
 GET http://localhost:5000/protected
-Authorization: Bearer <token>
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzM4NzY1NzM2LCJleHAiOjE3Mzg3NjkzMzZ9.KWtx4NKFB3iVtltZvwPCR7cNtUL1uLAtaS5XeG2CRes
